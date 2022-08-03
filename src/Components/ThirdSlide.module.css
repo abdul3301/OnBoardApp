@@ -1,0 +1,42 @@
+/* .thirdSlide {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid black;
+  width: 600px;
+}
+.tsheader > h3 {
+  color: gray;
+}
+.tsContainers {
+  display: flex;
+  padding: 10px 70px;
+}
+.tsFirstContainer {
+  border: 1px solid black;
+  margin: 10px;
+  height: 200px;
+  width: 200px;
+  cursor: pointer;
+}
+.tsFirstContainer:focus-within {
+  border: 1px solid yellow;
+}
+.tsFirstContainerSelected {
+  border: 1px solid blue;
+  margin: 10px;
+  height: 200px;
+  width: 200px;
+}
+.tsSecondContainer {
+  border: 1px solid black;
+  margin: 10px;
+  height: 200px;
+  width: 200px;
+  cursor: pointer;
+}
+.tsSecondContainerSelected {
+  border: 1px solid blue;
+  margin: 10px;
+  height: 200px;
+  width: 200px;
+} */

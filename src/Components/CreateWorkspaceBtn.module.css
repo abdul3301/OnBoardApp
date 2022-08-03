@@ -1,0 +1,10 @@
+.CreateWorkspaceBtn {
+  color: white;
+  margin-top: 10px;
+  background-color: rgb(124, 124, 217);
+  height: 50px;
+  border-radius: 10px;
+  width: 410px;
+  position: relative;
+  right: 10px;
+}
